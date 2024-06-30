@@ -1,5 +1,7 @@
-Titanic Survival Prediction:
-Name : Aditi Koppole
+<h1>Titanic Survival Prediction:</h1>
+
+<h3>Name : Aditi Koppole</h3>
+
 Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is
 a classic beginner project with readily available data.
 
